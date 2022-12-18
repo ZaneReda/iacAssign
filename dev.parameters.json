@@ -6,7 +6,7 @@
             "value": "zreda-assignment-develop-"
         },
       
-        "appServicePlanName2": {
+        "appServicePlanName": {
             "value": "zreda-assignment-serviceplan-develop"
         },
         "storageAccountName": {
