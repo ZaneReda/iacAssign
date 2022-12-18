@@ -60,3 +60,5 @@ resource storageAccount 'Microsoft.Storage/storageAccounts@2022-05-01' = {
     name: 'appService${difTypes[i]}'
     value: appService[i].outputs.appServiceAppHostName
   }]
+    
+    
